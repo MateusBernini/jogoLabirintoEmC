@@ -2,7 +2,6 @@
 /*
 ============================= JOGO DO LABIRINTO ========================
 ====MATEUS BERNINI ======
-====GABRIEL SATURNINO====
 */
 
 #include <windows.h>
