@@ -1,1 +1,1 @@
-Jogo do labirinto feito em C e utilizando OpenGl. eeeee
+Jogo do labirinto feito em C e utilizando OpenGl.
